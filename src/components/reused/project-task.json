@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_reused_project_tasks",
+  "info": {
+    "displayName": "projectTask",
+    "icon": "air-freshener",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Task": {
+      "type": "string"
+    }
+  }
+}
